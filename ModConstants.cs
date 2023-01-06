@@ -9,7 +9,7 @@ namespace BestCombinationSuggest {
     public static class ModConstants {
         // Build info
         public const string NAME = "BestCombinationSuggest";
-        public const string DESCRIPTION = "Show max score combination(AP & AutoFever) on gameplay pause ui";
+        public const string DESCRIPTION = "Display max score combination(AP & AutoFever) on gameplay pause ui";
         public const string AUTHOR = "brooke_zb";
         public const string COPYRIGHT = "Created by " + AUTHOR;
         public const string VERSION = "0.4.0";
