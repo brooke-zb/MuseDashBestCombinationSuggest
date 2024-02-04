@@ -1,4 +1,4 @@
-﻿using GameLogic;
+﻿using Il2CppGameLogic;
 using HarmonyLib;
 using System.Text;
 

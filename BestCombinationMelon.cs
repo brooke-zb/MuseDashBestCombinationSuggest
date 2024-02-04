@@ -1,14 +1,14 @@
-﻿using Assets.Scripts.PeroTools.Commons;
-using FormulaBase;
-using GameLogic;
+﻿using Il2CppAssets.Scripts.PeroTools.Commons;
+using Il2CppFormulaBase;
+using Il2CppGameLogic;
 using System.Collections.Generic;
 using MelonLoader;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.AddressableAssets;
-using Il2CppSystem.Threading.Tasks;
-using Il2CppSystem;
+using Task = Il2CppSystem.Threading.Tasks.Task;
+using Action = Il2CppSystem.Action;
 
 namespace BestCombinationSuggest {
     public class BestCombinationMelon : MelonMod {

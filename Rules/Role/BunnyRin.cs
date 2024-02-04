@@ -1,5 +1,5 @@
-﻿using Assets.Scripts.PeroTools.Commons;
-using GameLogic;
+﻿using Il2CppAssets.Scripts.PeroTools.Commons;
+using Il2CppGameLogic;
 using System;
 using System.Collections.Generic;
 using System.Linq;

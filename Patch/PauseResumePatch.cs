@@ -1,5 +1,6 @@
-﻿using Assets.Scripts.Database;
+﻿using Il2CppAssets.Scripts.Database;
 using HarmonyLib;
+using Il2Cpp;
 
 namespace BestCombinationSuggest.Patch {
     // 暂停时显示最高得分组合

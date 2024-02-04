@@ -1,7 +1,7 @@
-﻿using Assets.Scripts.GameCore.HostComponent;
-using Assets.Scripts.PeroTools.Commons;
-using Assets.Scripts.PeroTools.Managers;
-using GameLogic;
+﻿using Il2CppAssets.Scripts.GameCore.HostComponent;
+using Il2CppAssets.Scripts.PeroTools.Commons;
+using Il2CppAssets.Scripts.PeroTools.Managers;
+using Il2CppGameLogic;
 using MelonLoader;
 using System;
 using System.Collections.Generic;

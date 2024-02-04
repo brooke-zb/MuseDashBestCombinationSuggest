@@ -1,4 +1,4 @@
-﻿using GameLogic;
+﻿using Il2CppGameLogic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +12,7 @@ namespace BestCombinationSuggest {
         public const string DESCRIPTION = "Display max score combination(AP & AutoFever) on gameplay pause ui";
         public const string AUTHOR = "brooke_zb";
         public const string COPYRIGHT = "Created by " + AUTHOR;
-        public const string VERSION = "0.4.0";
+        public const string VERSION = "1.0.0";
 
 		// Constants
 		public const string FONT_NAME = "Normal";

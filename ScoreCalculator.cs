@@ -1,7 +1,7 @@
 ﻿using BestCombinationSuggest.Rules;
 using BestCombinationSuggest.Rules.Role;
 using BestCombinationSuggest.Rules.Elfin;
-using GameLogic;
+using Il2CppGameLogic;
 using System;
 using System.Collections.Generic;
 

@@ -1,4 +1,4 @@
-﻿using GameLogic;
+﻿using Il2CppGameLogic;
 
 namespace BestCombinationSuggest.Rules.Role {
     internal class DevilMarija : BaseRoleRule {

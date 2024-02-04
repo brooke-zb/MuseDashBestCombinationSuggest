@@ -1,4 +1,4 @@
-﻿using GameLogic;
+﻿using Il2CppGameLogic;
 using System;
 using System.Collections.Generic;
 using System.Linq;
